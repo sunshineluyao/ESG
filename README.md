@@ -1,5 +1,5 @@
 ### Data Duration
-This study focuses mainly on the period of January to June 2020, during which, COVID-19 spread to Europe and North America, and the World Health Organization declared the coronavirus a global pandemic.
+This study focuses mainly on the period of January to July 2020, during which, COVID-19 spread to Europe and North America, and the World Health Organization declared the coronavirus a global pandemic.
 
 
 ### The Stock Data
