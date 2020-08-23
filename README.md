@@ -1,9 +1,14 @@
 ### Data Duration
-This study focuses mainly on the period of January to June 2020, during which, COVID-19 spread to Europe and North America, and the World Health Organization declared the coronavirus a global pandemic.
+This study focuses mainly on the period of January to July 2020, during which, COVID-19 spread to Europe and North America, and the World Health Organization declared the coronavirus a global pandemic.
 
 
 ### The Stock Data
-We requested financial data of companies listed in [S&P 1000](https://www.money-zine.com/definitions/investing-dictionary/sp-1000-index/) from [FACTSET](https://www.factset.com/products-data), a financial data supplier. The variables we used for analysis include daily closing price, market value, and MSCI ESG rating score (MSCI, 2020). This list is a comprehensive representation of companies publicly traded in the U.S. since it accounts for 90% of total market capitalization and covers all the Fama-French 30 industries. 
+
+We requested financial data of companies listed in [S&P 1500](https://www.money-zine.com/definitions/investing-dictionary/sp-1000-index/) from [FACTSET](https://www.factset.com/products-data), a financial data supplier. The variables we used for analysis include daily closing price, market value, and MSCI ESG rating score (MSCI, 2020). This list combines S&P 500, S&P MidCap 400, and S&P Small 600 and ccounts for approximately [90% of U.S. market capitalization](https://www.spglobal.com/spdji/en/indices/equity/sp-composite-1500/#overview). 
+
+### Treasury Data
+We use the three-month U.S. Treasury bill as [the proxy for the return of risk-free assets](https://www.investopedia.com/terms/r/risk-freerate.asp). The data is downloaded from [FRED-Economic Data](https://fred.stlouisfed.org/series/DTB3). The original data is annualized using a [360-day year or bank interest](https://www.federalreserve.gov/releases/h15/).  
+
 
 ### The Pandemic Data
 
