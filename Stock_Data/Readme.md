@@ -12,3 +12,5 @@
 [Counts by RBICS Economy](https://chart-studio.plotly.com/~zlysunshine2020/61/#/)
 
 [Counts by MSCI ESG Rtg Overall Company Rating](https://chart-studio.plotly.com/~zlysunshine2020/63/#/)
+
+[Average Daily Return by ESG Rating High and Low](https://plotly.com/~zlysunshine2020/72/)
